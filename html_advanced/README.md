@@ -2,7 +2,7 @@
 
 > A brief description
 
-[![Frame](https://www.figma.com/file/wLEj3wJ3USt0Au8x146OwK/Homepage_vessou?node-id=0%3A1&mode=dev)](figma_link)
+![Alt text](<School Page@2x.png>)
 
 ## Table of Contents
 
