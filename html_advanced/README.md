@@ -2,7 +2,7 @@
 
 > A brief description
 
-[![Frame](https://www.figma.com/file/wLEj3wJ3USt0Au8x146OwK/Homepage_vessou?type=design&node-id=0-1&mode=design&t=FTCYe0kUFQaAp6u6-0)](video_link)
+[![Frame](https://www.figma.com/file/wLEj3wJ3USt0Au8x146OwK/Homepage_vessou?node-id=0%3A1&mode=dev)](figma_link)
 
 ## Table of Contents
 
