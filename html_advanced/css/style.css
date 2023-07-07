@@ -8,7 +8,7 @@ body
 header
 {
     border: 2px solid black;
-    height: 100px;
+    height: 50px;
 }
 
 header div 
@@ -20,14 +20,14 @@ header div
     justify-content: space-between;
 }
 
-header div div 
+.company-logo 
 {
     border: 1px solid red;
     width: 250px;
     border-radius: 5px;
 }
 
-header div div a 
+.company-logo a 
 {
     border: 1px solid green;
     width: inherit;
@@ -35,7 +35,20 @@ header div div a
     justify-content: center;
 }
 
-header div div a span
+#nav-links
 {
-    text-align: center;
+    width: 300px;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#nav-links a
+{
+    border: 1px solid red;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
