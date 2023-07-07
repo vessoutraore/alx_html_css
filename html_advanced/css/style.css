@@ -22,7 +22,20 @@ header div
 
 header div div 
 {
-    border: 1px solid black;
+    border: 1px solid red;
     width: 250px;
     border-radius: 5px;
+}
+
+header div div a 
+{
+    border: 1px solid green;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+header div div a span
+{
+    text-align: center;
 }
