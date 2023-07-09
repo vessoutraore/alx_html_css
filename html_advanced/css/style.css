@@ -1,54 +1,129 @@
-body
+/* body
 {
-   border: 3px solid black;
-   height: 100vh;
-   padding: 5px;
-}
+   /* border: 3px solid black; */
+   /* height: 100vh;
+   padding: 5px; */
+/* } */ 
 
-header
+/* header
 {
     border: 2px solid black;
     height: 50px;
-}
+} */
 
-header div 
+/* header div 
 {
     border: 1px solid black;
     /* height: inherit; */
-    display: flex;
+    /* display: flex;
     padding: 5px;
     justify-content: space-between;
-}
+} */ 
 
-.company-logo 
+/* .company-logo 
 {
     border: 1px solid red;
     width: 250px;
     border-radius: 5px;
-}
+} */
 
-.company-logo a 
+/* .company-logo a 
 {
     border: 1px solid green;
     width: inherit;
     display: flex;
     justify-content: center;
-}
+} */
 
-#nav-links
+/* #nav-links
 {
     width: 300px;
     padding: 2px;
     display: flex;
     justify-content: center;
     gap: 10px;
-}
+} */
 
-#nav-links a
+/* #nav-links a
 {
     border: 1px solid red;
     width: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
+} */
+
+/* main
+{
+    border: 2px solid black;
+    height: inherit;
+    margin-top: 10px;
+    padding: 5px;
+} */
+
+/* main section 
+{
+    border: 2px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+} */
+
+/* #hero-section
+{
+    border: 1px solid black;
+    width: 20%;
+    padding: 0;  
+    gap: 10px;
+    height: 100px;
+} */
+
+/* #hero-section h1
+{
+    border: 1px solid blue;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+} */
+
+/* #hero-section p
+{
+    border: 1px solid purple;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+} */
+
+/* #hero-section button
+{
+    border: 1px solid green;
+    margin: 0;  
+    display: flex;
+    justify-content: center;  
+} */
+
+/* #block-section
+{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+} */
+
+/* #block-section h4
+{
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+} */
+
+.main-vid-div
+{
+    border: 1px grey;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    justify-content: space-evenly;
 }
