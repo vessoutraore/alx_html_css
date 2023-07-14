@@ -380,6 +380,9 @@
   .row{
     flex-direction: row-reverse;
   }
+  .section-latest-news{
+    flex-direction: row-reverse;
+  }
   
   /*** 4. CARD ***/
   
