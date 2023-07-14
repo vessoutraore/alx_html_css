@@ -386,6 +386,9 @@
   .section-services .row{
     flex-wrap: wrap;
   }
+  .section-services .row {
+    /* CSS rules for elements with the class "row" inside the "section-services" class go here */
+  }  
   
   /*** 4. CARD ***/
   
