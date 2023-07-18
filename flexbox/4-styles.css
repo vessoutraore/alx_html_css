@@ -180,11 +180,8 @@
   /* Grid
       ============================= */
   
-   [class*='row'] {
-    display: flex;
+    .row {
     margin: -1rem;
-    padding: 0;
-    list-style: none;
     }  
   /* .row {
     display: flex;
