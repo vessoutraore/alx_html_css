@@ -218,9 +218,9 @@
   /* Navbar
       ============================= */
   
-  .navbar-menu {
+  /* .navbar-menu {
     float: right;
-  }
+  } */
   
   .nav {
     margin: 0;
@@ -274,8 +274,13 @@
          z-index: 3;
          background: transparent;
   }
+
+  .header-container{
+    display: flex;
+    justify-content: space-between;
+  }
   
-  .header-logo {
+  /* .header-logo {
     position: var(--header-logo-position);
   }
   
@@ -284,7 +289,7 @@
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
-  }
+  } */
   
   /* Footer
       ============================= */
