@@ -3,6 +3,7 @@ body
     /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
+    background-color: #f1f1f1;
 }
 
 main 
@@ -24,3 +25,9 @@ aside
     flex: 1;
     overflow-y: auto;
 }
+
+/* CSS rule for the logo */
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
